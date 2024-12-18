@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-To run this project(code-splitting-react-lazy)
+# To run this project(code-splitting-react-lazy)
 
 1- clone repo(code-splitting-react-lazy)
 
